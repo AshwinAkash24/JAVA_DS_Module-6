@@ -35,6 +35,7 @@ public class CountDigits {
 ```
 
 ## Output:
+<img width="1246" height="323" alt="image" src="https://github.com/user-attachments/assets/267c794a-bfba-420b-8e22-8aae3040f602" />
 
 
 
