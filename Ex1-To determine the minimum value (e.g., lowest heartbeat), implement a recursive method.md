@@ -13,12 +13,6 @@ Compare arr[i] with the minimum from recursion and return the smaller value.
 ```
 /*
 Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
-Developed by: 
-RegisterNumber:  
-*/
-
-/*
-Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
 Developed by: Ashwin Akash M
 RegisterNumber: 212223230024
 */
