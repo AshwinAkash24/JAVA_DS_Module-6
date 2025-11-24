@@ -66,6 +66,7 @@ public class CountOccurrences {
 ```
 
 ## Output:
+<img width="1295" height="641" alt="image" src="https://github.com/user-attachments/assets/17d72df7-ca98-49ee-a3a3-856e1c4c6206" />
 
 
 
