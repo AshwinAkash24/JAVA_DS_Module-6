@@ -79,6 +79,7 @@ public class CountInversions {
 ```
 
 ## Output:
+<img width="1245" height="379" alt="image" src="https://github.com/user-attachments/assets/4d7f7c6d-fce9-47e8-87e8-5a8fd6986a1b" />
 
 
 
