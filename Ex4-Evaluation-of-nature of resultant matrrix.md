@@ -52,6 +52,7 @@ public class matrix{
 ```
 
 ## Output:
+<img width="1290" height="665" alt="image" src="https://github.com/user-attachments/assets/10524954-2f92-4893-b1c5-86a7f23d2ba6" />
 
 
 
